@@ -1,4 +1,4 @@
-# Team Babbage / S.E.I.Z.E.
+# S.E.I.Z.E.
 
 S.E.I.Z.E. stands for Swift Electronic Ingestion & Zero-delay Extraction. This repository contains the Raspberry Pi gateway, OLED dashboard, payload scripts, and central server receiver used to collect and forward forensic capture packages.
 
@@ -49,8 +49,5 @@ The payload scripts in `payloads/` are intended to be served by the Pi gateway a
 The central receiver in `server/receiver.py` accepts uploaded evidence packages, extracts them into the local storage directory, and updates shared status information for the OLED dashboard.
 
 ## Notes
-
-- The repository currently includes generated Python bytecode under `dashboard/__pycache__/` and `server/__pycache__/`.
-- The root `.gitignore` ignores the generated VS Code browse database files that can interfere with staging.
 
 Use this project only on systems you are authorized to inspect.
