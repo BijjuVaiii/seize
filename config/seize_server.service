@@ -1,0 +1,14 @@
+[Unit]
+Description=S.E.I.Z.E. Forensic Ingestion Web Server
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/seize/server
+ExecStart=/usr/bin/python3 /opt/seize/server/proxy_gate.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

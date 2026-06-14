@@ -1,0 +1,15 @@
+[Unit]
+Description=S.E.I.Z.E. OLED Display Dashboard
+After=seize_server.service
+Requires=seize_server.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/seize/dashboard
+ExecStart=/usr/bin/python3 /opt/seize/dashboard/oled_dashboard.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
