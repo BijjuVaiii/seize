@@ -48,6 +48,15 @@ The payload scripts in `payloads/` are intended to be served by the Pi gateway a
 
 The central receiver in `server/receiver.py` accepts uploaded evidence packages, extracts them into the local storage directory, and updates shared status information for the OLED dashboard.
 
+## Contributors & Project Roles
+
+Project S.E.I.Z.E. was built by **Team BABBAGE** as a national finalist entry for the **Nepal Police Lumbini Hackathon (May 2026)**.
+
+* **[Hemant Kumar Sah](https://github.com/sahTechies)** — Core Embedded Systems Architect & Forensic Script Engineer
+* **[Bijay Rauniyar](https://github.com/BijjuVaiii)** — Systems Deployment, QA Testing, Network Diagnostics, & Hardware Assembly Support
+* **Prem Gupta** — Project Coordinator, Presentation Lead, & Public Relations
+* **Roshan Shah** — Technical Support
+
 ## Notes
 
 Use this project only on systems you are authorized to inspect.
