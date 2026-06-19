@@ -52,8 +52,8 @@ The central receiver in `server/receiver.py` accepts uploaded evidence packages,
 
 Project S.E.I.Z.E. was built by **Team BABBAGE** as a national finalist entry for the **Nepal Police Lumbini Hackathon (May 2026)**.
 
-* **[Hemant Kumar Sah](https://github.com/sahTechies)** — Core Embedded Systems Architect & Forensic Script Engineer
 * **[Bijay Rauniyar](https://github.com/BijjuVaiii)** — Systems Deployment, QA Testing, Network Diagnostics, & Hardware Assembly Support
+* **[Hemant Kumar Sah](https://github.com/sahTechies)** — Core Embedded Systems Architect & Forensic Script Engineer
 * **Prem Gupta** — Project Coordinator, Presentation Lead, & Public Relations
 * **Roshan Shah** — Technical Support
 
