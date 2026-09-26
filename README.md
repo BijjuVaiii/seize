@@ -1,4 +1,4 @@
-# S.E.I.Z.E.
+d# S.E.I.Z.E.
 
 S.E.I.Z.E. stands for Swift Electronic Ingestion & Zero-delay Extraction. This repository contains the Raspberry Pi gateway, OLED dashboard, payload scripts, and central server receiver used to collect and forward forensic capture packages.
 
@@ -54,7 +54,7 @@ Project S.E.I.Z.E. was built by **Team BABBAGE** as a national finalist entry fo
 
 * **[Bijay Rauniyar](https://github.com/BijjuVaiii)** — Systems Deployment, QA Testing, Network Diagnostics, & Hardware Assembly Support
 * **[Hemant Kumar Sah](https://github.com/sahTechies)** — Core Embedded Systems Architect & Forensic Script Engineer
-* **Prem Gupta** — Project Coordinator, Presentation Lead, & Public Relations
+* **[Prem Gupta](https://github.com/premocean2021-pixel)** — Project Coordinator, Presentation Lead, & Public Relations
 * **Roshan Shah** — Technical Support
 
 ## Notes
